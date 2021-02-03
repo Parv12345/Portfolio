@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: 400;
+}
+#Apps{
+    background-color: cornflowerblue;
+}
+#Games{
+    background-color: orange;
+}
+#bots{
+    background-color: yellowgreen;
+}
+.line{
+height: 6px;
+background-color: black;
+width:70px;
+margin: 8px auto;
+}
